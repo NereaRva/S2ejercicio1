@@ -1,0 +1,21 @@
+header{
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.block{
+    display: block;
+}
+footer{
+    display: flex;
+}
+p{
+    margin-left: 20px;
+}
+.google{
+    background: rgb(27, 155, 235);
+}
+.facebook{
+    background: rgb(54, 70, 213);
+}
